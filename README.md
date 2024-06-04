@@ -14,3 +14,5 @@ Runing Sonoma 14.5
 
 “Still waiting for root device” caused by used wrong USB port. 
 Use USB any of 4 ports near ethernet socket.
+
+**Do not forget to regenerate SMBIOS**
